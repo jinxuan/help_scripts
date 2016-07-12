@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python
+#  -*- coding: utf-8 -*-
 import wunderpy2
 api = wunderpy2.WunderApi()
 client = api.get_client("4571f8d62d1f9ad3a52eac32cfefeaa8191ed750ef017475d2429269bcf3", "a2fcef806cc3fabd1841")

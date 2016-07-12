@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import wunderpy2
 api = wunderpy2.WunderApi()
